@@ -13,7 +13,7 @@ public interface IPersonService {
 
 	void deletePerson(int personID);
 
-	List<Map<String, Object>> selectAllPerson();
+	List<Map<String, Object>> selectAllPerson(); 
 	
 	
 }
