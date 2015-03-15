@@ -34,7 +34,8 @@ public class SpringMVCController {
         System.out.println("System out is working");
 		model.addAttribute("message", "Spring MVC JDBCTemplate welcome page");
 		
-		return "index";		
+		return "index";	
+		Stirng asdkfj;
 	}
 
 	@RequestMapping(value = "/databasetest")
