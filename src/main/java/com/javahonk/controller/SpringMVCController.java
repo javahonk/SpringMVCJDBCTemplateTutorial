@@ -33,7 +33,7 @@ public class SpringMVCController {
         logger.error("Log4j error is working");
         System.out.println("System out is working");
 		model.addAttribute("message", "Spring MVC JDBCTemplate welcome page");
-		
+		System.out.println("Java Honk2");
 		
 		return "index";	
 		
