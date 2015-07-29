@@ -35,6 +35,7 @@ public class SpringMVCController {
 		model.addAttribute("message", "Spring MVC JDBCTemplate welcome page");
 
 		System.out.println("Changes from javahonk");	
+		System.out.println("Second Changes from javahonk");
 
 		
 		return "index";	
