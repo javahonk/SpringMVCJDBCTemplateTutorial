@@ -34,7 +34,7 @@ public class SpringMVCController {
         System.out.println("System out is working");
 		model.addAttribute("message", "Spring MVC JDBCTemplate welcome page");
 
-		System.out.println("Java Honk Test check out changess");
+		System.out.println("New branchs");
 
 		
 		return "index";	
