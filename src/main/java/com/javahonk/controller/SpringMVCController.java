@@ -34,7 +34,7 @@ public class SpringMVCController {
         System.out.println("System out is working");
 		model.addAttribute("message", "Spring MVC JDBCTemplate welcome page");
 
-		System.out.println("This is master branch");	
+		System.out.println("Changes from javahonk");	
 
 		
 		return "index";	
