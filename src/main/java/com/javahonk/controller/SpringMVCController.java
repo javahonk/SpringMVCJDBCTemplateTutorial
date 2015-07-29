@@ -36,6 +36,7 @@ public class SpringMVCController {
 
 		System.out.println("This is master branch");
 		System.out.println("This is javahonk2 branch");
+		System.out.println("This is javahonk2 branch3");
 
 		
 		return "index";	
