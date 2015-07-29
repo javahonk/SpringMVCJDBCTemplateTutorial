@@ -39,6 +39,7 @@ public class SpringMVCController {
 		System.out.println("Third Changes from javahonk");
 		System.out.println("Fourth Changes from javahonk");
 		System.out.println("Fifth Changes from javahonk");
+		System.out.println("Sixth Changes from javahonk");
 
 		
 		return "index";	
